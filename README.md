@@ -1,11 +1,13 @@
-# Daniel Andrade Siqueira
+# 🧑‍💻 Daniel Andrade Siqueira
+**`Student of Software Engineer`**
 
+Hello, my name is Daniel. I am 18 years old and currently live in Quixadá, Ceará.
 
-Currently in the 2nd semester of Software Engineering at the Federal University of Ceará (UFC), I aspire to be an AI Developer. I focus on creating projects that showcase my development and competence in addressing real societal and personal challenges. I have a keen interest in designing and building games from the ground up.
+I am a 2nd-semester Software Engineering student at the Federal University of Ceará (UFC), aspiring to become an AI Developer. My focus is on creating projects that showcase my development and competence in addressing real societal and personal challenges.
 
 ---
 
-### 🌐 Linguagens e Tecnologias
+### 🧭 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -13,23 +15,34 @@ Currently in the 2nd semester of Software Engineering at the Federal University 
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+              
   <img 
     align="left" 
     alt="C++"
     title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
+             
   <img 
     align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 <img 
     align="left" 
     alt="GitHub"
@@ -47,8 +60,10 @@ Currently in the 2nd semester of Software Engineering at the Federal University 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
+<br/>
 
-### 📊 Estatísticas
+----
+###  📚 Estatísticas
 
 <p>
   <img 
@@ -56,14 +71,14 @@ Currently in the 2nd semester of Software Engineering at the Federal University 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=danielasb71&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=danielasb71&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasb71&theme=highcontrastt&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasb71&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
