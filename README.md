@@ -5,6 +5,25 @@ Hello, my name is Daniel. I am 18 years old and currently live in Quixadá, Cear
 
 I am a 2nd-semester Software Engineering student at the Federal University of Ceará (UFC), aspiring to become an AI Developer. My focus is on creating projects that showcase my development and competence in addressing real societal and personal challenges.
 
+<p align="left">
+    </a> 
+    <a href="https://github.com/danielasb71?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/danielasb71?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/danielasb71?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/danielasb71?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+
 ---
 
 ### 🧭 Linguagens e Tecnologias
