@@ -85,7 +85,7 @@ I am a 2nd-semester Software Engineering student at the Federal University of Ce
 ###  📚 Estatísticas
 
 <p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -97,6 +97,7 @@ I am a 2nd-semester Software Engineering student at the Federal University of Ce
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasb71&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
